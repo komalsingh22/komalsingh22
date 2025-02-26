@@ -26,13 +26,10 @@ Hello! I'm Komalpreet Singh, a passionate college student actively engaged in le
 ![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![UI/UX](https://img.shields.io/badge/UI/UX-000000?style=for-the-badge&logo=figma&logoColor=white)
 
-Feel free to reach out to me for any questions, suggestions, or collaboration opportunities at [komalpreet.singh@example.com](mailto:komalpreet.singh@example.com).
+Feel free to reach out to me for any questions, suggestions, or collaboration opportunities at [komalpreets356@gmail.com](mailto:komalpreets356@gmail.com).
 
 <!---
 komalsingh22/komalsingh22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
----
-
-You can copy and paste this into your GitHub profile README. Let me know if there's anything else you'd like to add or modify!
