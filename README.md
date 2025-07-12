@@ -14,7 +14,6 @@ Hello! I'm Komalpreet Singh, a passionate college student actively engaged in le
 
 ### Recent Projects
 
-- **NextJS App:** Developed an application to browse GitHub repositories.
 - **Flutter Projects:** Created various Flutter projects, integrating additional dependencies to enhance functionality.
 - **UI Designs:** Designed a Nike spinning animation and a car selling website.
 - **Wallpaper App:** Developed a Flutter app for browsing and setting wallpapers with rich features.
@@ -23,7 +22,6 @@ Hello! I'm Komalpreet Singh, a passionate college student actively engaged in le
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![UI/UX](https://img.shields.io/badge/UI/UX-000000?style=for-the-badge&logo=figma&logoColor=white)
 
 Feel free to reach out to me for any questions, suggestions, or collaboration opportunities at [komalpreets356@gmail.com](mailto:komalpreets356@gmail.com).
